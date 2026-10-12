@@ -16,6 +16,7 @@
 
 ## 📁 Структура проєкту:
 
+```text
 logoipsum/
 ├── index.html
 ├── style.css
